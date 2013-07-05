@@ -216,5 +216,6 @@ pip-log.txt
 
 #隠蔽したいファイル
 hidden/*.*
-data/consumer.json
+data/tumblr_consumer.json
+data/twitter_consumer.json
 data/server.json
