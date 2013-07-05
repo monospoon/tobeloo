@@ -67,5 +67,5 @@ Distributed under the BSD License.
 See http://pajhome.org.uk/crypt/md5 for details.
 
 ### parseUri
-(c) Steven Levithan <stevenlevithan.com>  
+(c) Steven Levithan &lt;stevenlevithan.com&gt;  
 MIT License
