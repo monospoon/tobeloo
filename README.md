@@ -65,3 +65,7 @@ as defined in FIPS PUB 180-1 Version 2.1a Copyright Paul Johnston 2000 - 2002.
 Other contributors: Greg Holt, Andrew Kepert, Ydnar, Lostinet
 Distributed under the BSD License.
 See http://pajhome.org.uk/crypt/md5 for details.
+
+### parseUri
+(c) Steven Levithan <stevenlevithan.com>  
+MIT License
